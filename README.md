@@ -1,8 +1,13 @@
-## Hi there 👋
+‣ Data Science student with a strong interest in Data Science, Machine Learning, and Artificial Intelligence
+‣ Skilled in Python, Data Analysis, Machine Learning, and Data Visualization
+‣ Hands-on experience in developing AI and analytics-based projects
+‣ Passionate about solving real-world problems using data-driven solutions and modern technologies
+‣ Continuously learning advanced concepts in Data Science, Deep Learning, and AI applications
 
-👋 Hi there, I'm Himanshu (HRK)
-💡 About Me
-- 🚀 Passionate about **AI, Data Science **
-- 🌱 Skills **Python (Pandas, Seaborn.matplotlib,NLP,numpy,RegX,Statistics)** ,Java,C **Machine Learning**
-- 🎯 Aim: Become a Data Scientist at a FAANG company and want to do job in Dubai
-- 
+‣‣ Tech Stack
+‣ Python,Java,C,Pandas,NumPy,Scikit-learn,Matplotlib,Seaborn,Plotly,Power BI,MySQL,Git & GitHub,Jupyter Notebook,Streamlit
+
+‣‣ Internships & Achievements
+‣ Data Science Intern – Aigenius LLP
+‣ Data Science Intern – CGI London
+‣ Selected for Data Science Internship – IIT Roorkee
